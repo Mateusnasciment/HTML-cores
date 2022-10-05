@@ -5,7 +5,6 @@
 </h3>
 
 
-<p align="center">🏗️ Lista de tarefas 🖱️ Completa 🏗️</p> 
 
 <p align="center">
   <a href="#sobre">Sobre</a> ·
@@ -16,7 +15,8 @@
 </p>
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/857822189390135296/989475984338198568/lista-de-tarefas.gif"/>
+    <img src="https://user-images.githubusercontent.com/106212780/194176169-5caa48a2-330c-40c7-9151-af19452ab20e.gif"/>
+
 </div>
 
 ---
@@ -52,7 +52,7 @@ Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos
 
 ### ⏳ Rodando o projeto ⏳
 
-``
+```
 # entrar no site 
 https://cores-doidas.netlify.app/
 
@@ -84,7 +84,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+``
 
 <div id="autor"></div>
 
