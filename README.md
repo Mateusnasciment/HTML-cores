@@ -3,6 +3,9 @@
 <h3 align="center">
     💻 site de cores aleatorias Javascript 💻 </br></br></br>
 </h3>
+<h3 align="center">
+https://cores.netlify.app/</br></br></br>
+</h3>
 
 
 
