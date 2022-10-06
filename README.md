@@ -28,7 +28,7 @@ https://cores.netlify.app/</br></br></br>
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
 
-Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos no Javascript. Veja esse projeto você mesmo 
+Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos no Javascript.
 
 
 
